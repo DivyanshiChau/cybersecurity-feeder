@@ -1,0 +1,287 @@
+[
+    {
+        "title": "Multiple Vulnerabilities in Rockwell Automation FactoryTalk ThinManager Equipment (31 Oct 2024)",
+        "description": "Multiple vulnerabilities have been discovered in Rockwell Automation FactoryTalk ThinManager equipment. The affected versions are ThinManager: versions 11.2.0 to 11.2.9, versions 12.0.0 to 12.0.7, versions 12.1.0 to 12.1.8, versions 13.0.0 to 13.0.5, versions 13.1.0 to 13.1.3, versions 13.2.0 to 13.2.2, and version 14.0.0. The mitigation and workarounds are available.\nCVE ID: CVE-2024-10386 (Critical), CVE-2024-10387 (High)",
+        "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-305-01"
+    },
+    {
+        "title": "Microsoft Edge Security Updates (31 Oct 2024)",
+        "description": "Microsoft has released updated Microsoft Edge Stable Channel (Version 130.0.2849.68) to resolve vulnerabilities.",
+        "link": "https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security"
+    },
+    {
+        "title": "Google Released Security Updates for Chrome (30 Oct 2024)",
+        "description": "Google has released Chrome Beta 131 (131.0.6778.22) for iOS, Chrome Beta 131 (131.0.6778.22) for Android, and Beta channel 131.0.6778.24 for Windows, Mac and Linux.",
+        "link": "https://chromereleases.googleblog.com/"
+    },
+    {
+        "title": "Red Hat Security Updates (30 Oct 2024)",
+        "description": "Red Hat has released security updates to address multiple vulnerabilities in several products.",
+        "link": "https://access.redhat.com/errata-search/#/"
+    },
+    {
+        "title": "Mozilla Released Security Updates (29 Oct 2024)",
+        "description": "Mozilla has released security updates to address multiple vulnerabilities in Thunderbird 132, Thunderbird 128.4, Firefox ESR 115.17, Firefox ESR 128.4, Firefox 132. An attacker can exploit these vulnerabilities to take control of an affected system.\nCVE ID: CVE-2024-10458 (High), CVE-2024-10459 (High), CVE-2024-10460 (Medium), CVE-2024-10461 (Medium), CVE-2024-10462 (Medium), CVE-2024-10463 (Medium), CVE-2024-10464 (Low), CVE-2024-10465 (Low), CVE-2024-10466 (Low), CVE-2024-10467 (Medium), CVE-2024-10468 (Medium)",
+        "link": "https://www.mozilla.org/en-US/security/advisories/"
+    },
+    {
+        "title": "Vulnerability in Crypto plugin for WordPress (29 Oct 2024)",
+        "description": "An authentication bypass vulnerability has been discovered in Crypto plugin for WordPress. The affected versions are Crypto plugin for WordPress up to and including, 2.15.\nCVE ID: CVE-2024-9989 (Critical)",
+        "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-9989"
+    },
+    {
+        "title": "Vulnerability in IBM (29 Oct 2024)",
+        "description": "A static credentials vulnerability has been discovered in IBM Flexible Service Processor. The affected versions are IBM Flexible Service Processor FW860.00 through FW860.B3, FW950.00 through FW950.C0, FW1030.00 through FW1030.61, FW1050.00 through FW1050.21, and FW1060.00 through FW1060.10. Security updates are available.\nCVE ID: CVE-2024-45656 (Critical)",
+        "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-45656"
+    },
+    {
+        "title": "Multiple Vulnerabilities in Siemens' Equipment InterMesh (29 Oct 2024)",
+        "description": "Multiple vulnerabilities have been discovered in several of Siemens' equipment- InterMesh. Siemens has released workarounds and mitigations to resolve these vulnerabilities.\nCVE ID: CVE-2024-47901 (Critical), CVE-2024-47902 (High), CVE-2024-47903 (High), CVE-2024-47904 (High)",
+        "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-303-01"
+    },
+    {
+        "title": "Vulnerability in Delta Electronics' Equipment (29 Oct 2024)",
+        "description": "A deserialization of untrusted data vulnerability has been discovered in Delta Electronics' Equipment- InfraSuite Device Master. The affected versions are InfraSuite Device Master: Versions 1.0.12 and prior. Security updates are available.\nCVE ID: CVE-2024-10456 (Critical)",
+        "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-303-03"
+    },
+    {
+        "title": "Apple Security Updates (29 Oct 2024)",
+        "description": "Apple has released security updates to address multiple vulnerabilities in Safari 18.1. An attacker can exploit these vulnerabilities to take control of an affected device.\nCVE ID: CVE-2024-44259, CVE-2024-44229, CVE-2024-44296, CVE-2024-44244",
+        "link": "https://support.apple.com/en-us/121571"
+    },
+    {
+        "title": "Red Hat Security Updates (28 Oct 2024)",
+        "description": "Red Hat has released security updates to address multiple vulnerabilities in several products.",
+        "link": "https://access.redhat.com/errata-search/#/"
+    },
+    {
+        "title": "Vulnerability in Sunnet (27 Oct 2024)",
+        "description": "SQL Injection vulnerability has been discovered in eHDR CTMS of Sunnet that allow unauthenticated remote attackers to inject arbitrary SQL command to read, modify, and delete database contents.\nCVE ID: CVE-2024-10440 (Critical)",
+        "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-10440"
+    },
+    {
+        "title": "Vulnerability in Wux Blog Editor plugin for WordPress (26 Oct 2024)",
+        "description": "An Unauthenticated Arbitrary File Upload vulnerability has been discovered in Wux Blog Editor plugin for WordPress. The affected versions are Wux Blog Editor plugin for WordPress up to and including, 3.0.0.\nCVE ID: CVE-2024-9932 (Critical)",
+        "link": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wux-blog-editor/wux-blog-editor-300-unauthenticated-arbitrary-file-upload"
+    },
+    {
+        "title": "Vulnerability in Trend Micro Deep Discovery Inspector (25 Oct 2024)",
+        "description": "A vulnerability has been discovered in Trend Micro Deep Discovery Inspector that allow an attacker to disclose sensitive information affected installations. The affected versions are Trend Micro Deep Discovery Inspector versions 5.8 and above.\nCVE ID: CVE-2024-46902 (Critical)",
+        "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-46902"
+    },
+    {
+        "title": "Vulnerability in IBM Concert (25 Oct 2024)",
+        "description": "A vulnerability has been discovered in IBM Concert. The affected versions are IBM Concert 1.0.0 and 1.0.1.\nCVE ID: CVE-2024-43177 (Critical)",
+        "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-43177"
+    },
+    {
+        "title": "Vulnerability in Tenda (25 Oct 2024)",
+        "description": "Stack-based buffer overflow vulnerability has been discovered in Tenda FH1201. The affected version is Tenda FH1201 v1.2.0.14.\nCVE ID: CVE-2024-41461 (Critical)",
+        "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-41461"
+    },
+    {
+        "title": "Google Released Security Updates for Chrome (24 Oct 2024)",
+        "description": "Google has released Chrome Dev 132 (132.0.6793.3) for Android and Dev channel 132.0.6793.2 for Windows, Mac and Linux.",
+        "link": "https://chromereleases.googleblog.com/"
+    },
+    {
+        "title": "Fortinet Released Security Updates (24 Oct 2024)",
+        "description": "Fortinet has released security updates to address missing authentication for critical function vulnerability in FortiManager. An attacker can exploit some of these vulnerabilities to take control of an affected system.\nCVE ID: CVE-2024-47575 (Critical)",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-423"
+    },
+    {
+        "title": "Red Hat Security Updates (24 Oct 2024)",
+        "description": "Red Hat has released security updates to address multiple vulnerabilities in several products.",
+        "link": "https://access.redhat.com/errata-search/#/"
+    },
+    {
+        "title": "Vulnerability in VIMESA's Equipment (24 Oct 2024)",
+        "description": "Improper Access Control vulnerability has been discovered in VIMESA's Equipment- VHF/FM Transmitter Blue Plus. The affected version is VHF/FM Transmitter Blue Plus v9.7.1. The mitigations are available.\nCVE ID: CVE-2024-9692 (Medium)",
+        "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-298-01"
+    },
+    {
+        "title": "Vulnerability in iniNet Solutions' Equipment (24 Oct 2024)",
+        "description": "Path Traversal vulnerability has been discovered in iniNet Solutions' Equipment- SpiderControl SCADA PC HMI Editor. The affected version is SpiderControl SCADA PC HMI Editor version 8.10.00.00.\nCVE ID: CVE-2024-10313 (High)",
+        "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-298-02"
+    },
+    {
+        "title": "Deep Sea Electronics Security Update (24 Oct 2024)",
+        "description": "Deep Sea Electronics has released security update to address a Missing Authentication for Critical Function vulnerability in its equipment- DSE855. The affected version is DSE855: version 1.0.26.\nCVE ID: CVE-2024-5947 (Medium)",
+        "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-298-03"
+    },
+    {
+        "title": "Cisco Released Security Updates (23 Oct 2024)",
+        "description": "Cisco has released security updates to address static credential vulnerability in Cisco Firepower Threat Defense (FTD) Software for Cisco Firepower 1000, 2100, 3100, and 4200 series.\nCVE ID: CVE-2024-20412 (Critical)",
+        "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ftd-statcred-dFC8tXT5"
+    },
+    {
+        "title": "Cisco Released Security Updates (23 Oct 2024)",
+        "description": "Cisco has released security updates to address command injection vulnerability in Cisco Secure Firewall Management Center Software.\nCVE ID: CVE-2024-20424 (Critical)",
+        "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-cmd-inj-v3AWDqN7"
+    },
+    {
+        "title": "Cisco Released Security Updates (23 Oct 2024)",
+        "description": "Cisco has released security updates to address command injection vulnerability in the SSH subsystem of Cisco Adaptive Security Appliance (ASA) Software.\nCVE ID: CVE-2024-20329 (Critical)",
+        "link": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asa-ssh-rce-gRAuPEUF"
+    },
+    {
+        "title": "Vulnerability in LiteSpeed Technologies (23 Oct 2024)",
+        "description": "An insufficiently protected credentials vulnerability has been discovered in LiteSpeed Cache of  LiteSpeed Technologies that allows authentication bypass. The affected versions are LiteSpeed Cache: from n/a before 6.5.0.1.\nCVE ID: CVE-2024-44000 (Critical)",
+        "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-44000"
+    },
+    {
+        "title": "Vulnerability in Piyushmca Shipyaari Shipping Management (23 Oct 2024)",
+        "description": "A deserialization of untrusted data vulnerability has been discovered in Piyushmca Shipyaari Shipping Management that allows Object Injection. The affected versions are Shipyaari Shipping Management: from n/a through 1.2.\nCVE ID: CVE-2024-49626 (Critical)",
+        "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-49626"
+    },
+    {
+        "title": "Vulnerability in Simple Admin Panel App (23 Oct 2024)",
+        "description": "A SQL injection vulnerability has been discovered in Simple Admin Panel App. The affected version is Simple Admin Panel App v1.0.\nCVE ID: CVE-2024-25223 (Critical)",
+        "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-25223"
+    },
+    {
+        "title": "Vulnerability in Zimbra Collaboration (23 Oct 2024)",
+        "description": "A vulnerability has been discovered in the postjournal service of Zimbra Collaboration. The affected versions are Zimbra Collaboration (ZCS) before 8.8.15 Patch 46, 9 before 9.0.0 Patch 41, 10 before 10.0.9, and 10.1 before 10.1.1.\nCVE ID: CVE-2024-45519 (Critical)",
+        "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-45519"
+    },
+    {
+        "title": "Vulnerability in HikCentral Master (22 Oct 2024)",
+        "description": "A CSV injection vulnerability has been discovered in some HikCentral Master Lite versions.\nCVE ID: CVE-2024-47485 (Critical)",
+        "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-47485"
+    },
+    {
+        "title": "Red Hat Security Updates (22 Oct 2024)",
+        "description": "Red Hat has released security updates to address multiple vulnerabilities in several products.",
+        "link": "https://access.redhat.com/errata-search/#/"
+    },
+    {
+        "title": "Google Released Security Update for Chrome (21 Oct 2024)",
+        "description": "Google has released Stable channel OS version 16002.60.0 Browser version 129.0.6668.112 for most ChromeOS devices.",
+        "link": "https://chromereleases.googleblog.com/2024/10/stable-channel-update-for-chromeos_21.html"
+    },
+    {
+        "title": "Vulnerability in Arduino (21 Oct 2024)",
+        "description": "A missing authentication vulnerability has been discovered in the Visual Studio Code extension for Arduino that allows to perform Remote Code Execution (RCE) through a network attack vector.\nCVE ID: CVE-2024-43488 (Critical)",
+        "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-43488"
+    },
+    {
+        "title": "Microsoft Edge Security Updates (20 Oct 2024)",
+        "description": "Microsoft has released Microsoft Edge Stable Channel (Version 130.0.2849.56) to resolve multiple vulnerabilities.",
+        "link": "https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security"
+    },
+    {
+        "title": "CVE - KB Correlation (18 Oct 2024)",
+        "description": "List of CVE IDs and corresponding Knowledge Base IDs as released by Microsoft during Oct 2024.",
+        "link": "https://nciipc.gov.in/advisories/CVE/CVE-KB/2024/Oct.html"
+    },
+    {
+        "title": "CVE - KB Correlation (18 Oct 2024)",
+        "description": "List of CVE IDs and corresponding Knowledge Base IDs as released by Microsoft during Sept 2024.",
+        "link": "https://nciipc.gov.in/advisories/CVE/CVE-KB/2024/Sep.html"
+    },
+    {
+        "title": "Vulnerability in SECOM WRTR-304GN-304TW-UPSC (18 Oct 2024)",
+        "description": "An OS command injection vulnerability has been discovered in SECOM WRTR-304GN-304TW-UPSC. The affected product is WRTR-304GN-304TW-UPSC V02.\nCVE ID: CVE-2024-10118",
+        "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-10118"
+    },
+    {
+        "title": "Vulnerability in Wireless Router WRTM326 from SECOM (18 Oct 2024)",
+        "description": "An OS command injection vulnerability has been discovered in wireless router WRTM326 from SECOM. The affected products are WRTM326 before version 2.3.20.\nCVE ID: CVE-2024-10119",
+        "link": "https://nciipc.gov.in/%C2%A0https://nvd.nist.gov/vuln/detail/CVE-2024-10119"
+    },
+    {
+        "title": "Fortinet Released Security Updates for Multiple Products (17 Oct 2024)",
+        "description": "Fortinet has released security updates to address an use of externally-controlled format string vulnerability in FortiOS and FortiSwitchManager. An attacker can exploit some of these vulnerabilities to take control of an affected system.\nCVE ID: CVE-2024-23113 (Critical)",
+        "link": "https://www.fortiguard.com/psirt/FG-IR-24-029"
+    },
+    {
+        "title": "Multiple Vulnerabilities in Kieback&Peter's Equipment (17 Oct 2024)",
+        "description": "Multiple vulnerabilities have been discovered in Kieback&Peter's Equipment- DDC4000 Series. The mitigations are available.\nCVE ID: CVE-2024-41717 (Critical), CVE-2024-43812 (High), CVE-2024-43698 (Critical)",
+        "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-291-05"
+    },
+    {
+        "title": "Vulnerability in HMS Networks' Equipment (17 Oct 2024)",
+        "description": "An insufficiently protected credential vulnerability has been discovered in HMS Networks' equipment- EWON FLEXY 202. The affected version is EWON FLEXY 202 firmware version 14.2s0.  Security updates are available.\nCVE ID: CVE-2024-7755 (High)",
+        "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-291-04"
+    },
+    {
+        "title": "Multiple Vulnerabilities in Elvaco's Equipment (17 Oct 2024)",
+        "description": "Multiple vulnerabilities have been discovered in Elvaco's Equipment- M-Bus Metering Gateway CMe3100. Successful exploitation of these vulnerabilities could allow to perform Remote Code Execution (RCE), impersonate and send false information, or bypass authentication.\nCVE ID: CVE-2024-49396 (High), CVE-2024-49397 (High), CVE-2024-49398 (Critical), CVE-2024-49399 (High)",
+        "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-291-01"
+    },
+    {
+        "title": "Vulnerability in LCDS' Equipment (17 Oct 2024)",
+        "description": "A Cross Site Scripting (XSS) vulnerability has been discovered in LCDS' Equipment- LAquis SCADA that allows to steal cookies, inject arbitrary code, or perform unauthorized actions. The affected version is LAquis SCADA: version 4.7.1.511. Security Updates are available.\nCVE ID: CVE-2024-9414 (Critical)",
+        "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-291-02"
+    },
+    {
+        "title": "Vulnerability in Mitsubishi Electric's Equipment (17 Oct 2024)",
+        "description": "A Denial of Service (DoS) vulnerability has been discovered in Mitsubishi Electric's Equipment- CNC Series. The mitigations are available.\nCVE ID: CVE-2024-7316 (Medium)",
+        "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-291-03"
+    },
+    {
+        "title": "Red Hat Security Updates (17 Oct 2024)",
+        "description": "Red Hat has released security updates to address multiple vulnerabilities in several products.",
+        "link": "https://access.redhat.com/errata-search/#/"
+    },
+    {
+        "title": "Security Update for Wordpress Plugin (17 Oct 2024)",
+        "description": "WordPress has released a security update to resolve a privilege escalation vulnerability in the UserPro plugin for WordPress. The affected versions are UserPro plugin for WordPress up to and including, 3.6.0.\nCVE ID: CVE-2024-9863 (Critical)",
+        "link": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/miniorange-firebase-sms-otp-verification/miniorange-otp-verification-with-firebase-360-privilege-escalation-via-registration-due-to-administrator-default-user-role-value"
+    },
+    {
+        "title": "VMware Security Updates (16 Oct 2024)",
+        "description": "VMware has released security updates to address an Authenticated SQL injection in VMware HCX. The affected versions are VMware HCX 4.8.x, 4.9.x, and 4.10.x.\nCVE ID: CVE-2024-38814 (High)",
+        "link": "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25019"
+    },
+    {
+        "title": "Security Update for Wordpress Plugin (16 Oct 2024)",
+        "description": "WordPress has released a security update to resolve an authentication bypass vulnerability in the Nextend Social Login Pro plugin for WordPress. The affected versions are Nextend Social Login Pro plugin for WordPress up to and including, 3.1.14.\nCVE ID: CVE-2024-9893 (Critical)",
+        "link": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/nextend-social-login-pro/nextend-social-login-pro-3114-authentication-bypass"
+    },
+    {
+        "title": "Dell  Released Security Update (16 Oct 2024)",
+        "description": "Dell has released security updates for Dell OpenManage Enterprise. The affected versions are Dell OpenManage Enterprise versions prior to 4.2.0.\nCVE ID: CVE-2024-45766 (High), CVE-2024-45767 (Medium)",
+        "link": "https://www.dell.com/support/kbdoc/en-in/000237300/dsa-2024-426-security-update-for-dell-openmanage-enterprise-vulnerabilities"
+    },
+    {
+        "title": "Red Hat Security Updates (16 Oct 2024)",
+        "description": "Red Hat has released security updates to address multiple vulnerabilities in several products.",
+        "link": "https://access.redhat.com/errata-search/#/"
+    },
+    {
+        "title": "Google Released Security Updates for Chrome (16 Oct 2024)",
+        "description": "Google has released Dev channel 131.0.6778.0 (Platform version: 16063.2.0) for most ChromeOS devices. Chrome Beta 131 (131.0.6778.2) for Android, Chrome 131.0.6778.3 Beta channel for Windows, Mac and Linux, and Chrome Beta 131 (131.0.6778.2) for iOS.",
+        "link": "https://chromereleases.googleblog.com/"
+    },
+    {
+        "title": "Mozilla Released Security Updates (15 Oct 2024)",
+        "description": "Mozilla has released security updates to address a vulnerability in Firefox for iOS 131.2. An attacker can exploit this vulnerability to take control of an affected system.\nCVE ID: CVE-2024-10004 (Medium)",
+        "link": "https://www.mozilla.org/en-US/security/advisories/mfsa2024-54/"
+    },
+    {
+        "title": "Cisco Released Security Updates (16 Oct 2024)",
+        "description": "Cisco has released security updates to address multiple vulnerabilities in Cisco ATA 190 Series Analog Telephone Adapter firmware, Cisco UCS Central Software, and Cisco Unified Contact Center Management Portal.\nCVE ID: CVE-2024-20420 (Medium), CVE-2024-20421 (High), CVE-2024-20458 (High), CVE-2024-20459 (Medium), CVE-2024-20460 (Medium), CVE-2024-20461 (Medium), CVE-2024-20462 (Medium), CVE-2024-20463 (Medium), CVE-2024-20280 (Medium)",
+        "link": "https://sec.cloudapps.cisco.com/security/center/publicationListing.x"
+    },
+    {
+        "title": "Vulnerability Summary (15 Oct 2024)",
+        "description": "Summary of vulnerabilities for the week of October 07, 2024.",
+        "link": "https://www.cisa.gov/news-events/bulletins/sb24-289"
+    },
+    {
+        "title": "Google Released Security Updates for Chrome (15 Oct 2024)",
+        "description": "Google has released Stable channel OS version 16002.58.0 Browser version 129.0.6668.110 for most ChromeOS devices, LTS-126 version 126.0.6478.255 Platform version 15886.80.0 for most ChromeOS devices, Chrome 130 130.0.6723.58 for Android, Stable channel 130.0.6723.58/.59 for Windows & Mac & 130.0.6723.58 for Linux and Extended Stable channel 130.0.6723.59 for Windows & Mac.\nCVE ID: CVE-2024-9123 (High), CVE-2024-9122 (High), CVE-2024-8905 (High), CVE-2024-9954 (High), CVE-2024-9955 (Medium), CVE-2024-9956 (Medium), CVE-2024-9957 (Medium), CVE-2024-9958 (Medium), CVE-2024-9959 (Medium), CVE-2024-9960 (Medium), CVE-2024-9961 (Medium), CVE-2024-9962 (Medium), CVE-2024-9963 (Medium), CVE-2024-9964 (Medium), CVE-2024-9965 (Medium), CVE-2024-9966 (Medium), CVE-2024-9967 (Medium)",
+        "link": "https://chromereleases.googleblog.com/"
+    },
+    {
+        "title": "Oracle Released October 2024 Critical Patch Update (15 Oct 2024)",
+        "description": "Oracle has released its critical patch update for October 2024 to address 334 vulnerabilities across multiple products. An attacker can exploit these vulnerabilities to take control of an affected system.\nCVE ID: CVE-2024-45492 (Critical), CVE-2023-38408 (Critical), CVE-2024-4577 (Critical), CVE-2023-6816 (Critical), CVE-2022-2068 (Critical), CVE-2024-37371 (Critical), CVE-2022-36760 (Critical), CVE-2022-34381 (Critical), CVE-2024-5535 (Critical), CVE-2024-21216 (Critical), CVE-2024-28752 (Critical), CVE-2022-23305 (Critical), CVE-2023-38545 (Critical), CVE-2024-29736 (Critical), CVE-2024-21172 (Critical), CVE-2022-46337 (Critical)",
+        "link": "https://www.oracle.com/security-alerts/cpuoct2024.html"
+    },
+    {
+        "title": "Vulnerability in ChanGate (15 Oct 2024)",
+        "description": "A SQL Injection vulnerability has been discovered in the Property Management System of ChanGate that allows to inject arbitrary SQL commands to read, modify, and delete database content.\nCVE ID: CVE-2024-9972 (Critical)",
+        "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-9972"
+    }
+]

@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Oxanium:wght@200..800&display=swap');
+
+body {
+    background-color: black;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+.news-container {
+    margin-top: 20px;
+    color: aliceblue;
+}
+.news-item {
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+    padding: 10px;
+    font-family: "Noto Sans", serif;
+}
+.news-title {
+    font-weight: bold;
+    font-size: 18px;
+    font-family: "Noto Sans", serif;
+}
+.news-summary {
+    margin: 10px 0;
+    font-family: "Noto Sans", serif;
+}
+.news-date {
+    color: rgb(247, 241, 241);
+    font-size: 12px;
+}
+.heading {
+    color: aquamarine;
+    font-family: "Oxanium", sans-serif;
+    padding-left: 30rem;
+    font-size: 3.2rem;
+}
+.bts {
+    font-family: "Oxanium", sans-serif;
+    padding-left: 25rem;
+}
