@@ -3,3 +3,6 @@ CyberIncident- news-Feeder is a tool designed to scrape and collect real-time fe
 User can identify potential vulnerabilities, have quick access to relevant cybersecurity news and can take further actions to it.
 Real-time Web Scraping: Utilizes Selenium to scrape news and incident data from multiple sources.
 User can also scrape the real data and view it, this also distinguishes the different source of user which can be benificial for the user.
+
+
+
